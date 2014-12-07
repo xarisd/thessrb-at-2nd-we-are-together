@@ -3,7 +3,7 @@ Thessaloniki Ruby Meetup (thessrb) at 2nd "We Are Together" presentation
 
 This is a presentation about the Thessaloniki Ruby Meetup (thessrb) that was part of the "We are together" event.
 
-You can preview it online at <https://speakerdeck.com/xarisd/thessaloniki-ruby-meetup-thessrb>
+You can preview it online at <https://speakerdeck.com/xarisd/thessaloniki-ruby-meetup-thessrb-at-2nd-we-are-together>
 
 
 ## About this repository
